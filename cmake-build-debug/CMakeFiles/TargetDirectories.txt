@@ -1,0 +1,3 @@
+/Users/alex/CLionProjects/PKR_12_12.2/cmake-build-debug/CMakeFiles/PKR_12_12_2.dir
+/Users/alex/CLionProjects/PKR_12_12.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/CLionProjects/PKR_12_12.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
